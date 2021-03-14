@@ -15,7 +15,7 @@ image {
 
 h1, h2 {
   color: #5d8432;
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
 }
 
 h2 {
@@ -29,7 +29,7 @@ figcaption {
 }
 
 nav {
-  font-family: 'Patua One', sans-serif;
+  font-family: "Patua One", sans-serif;
   font-size: 1.125rem;
   font-weight: bold;
 }
@@ -40,12 +40,12 @@ nav ol {
 
 nav a {
   color: #793284;
-  ;text-decoration: none;
+    text-decoration: none;
 }
 
 nav a:hover {
   color: #b42885;
-  ;text-decoration: underline;
+    text-decoration: underline;
 }
 
 .intro {
