@@ -40,12 +40,12 @@ nav ol {
 
 nav a {
   color: #793284;
-    text-decoration: none;
+  text-decoration: none;
 }
 
 nav a:hover {
   color: #b42885;
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 .intro {
