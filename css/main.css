@@ -1,12 +1,15 @@
 html {
-  box-sizing: inherit;
-}
-
-image {width: 100%
+  box-sizing: border-box;
+  background-color: #f2f1ed;
+  font-family: Georgia, serif;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+image {width: 100%
 }
 
 h1, h2 {
@@ -34,7 +37,11 @@ nav a {
   text-decoration: none;
 }
 
-nav a hover {
+nav a:hover {
   color: #b42885
   text-decoration: underline;
+}
+
+.intro {
+  font-size: 1rem;
 }
