@@ -10,7 +10,7 @@ html {
 }
 
 image {
-  width: 100%
+  width: 100%;
 }
 
 h1, h2 {
@@ -19,7 +19,7 @@ h1, h2 {
 }
 
 h2 {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 figcaption {
