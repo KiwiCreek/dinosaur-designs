@@ -20,6 +20,21 @@ figcaption {
   text-align: center;
 }
 
- ol {
-   color: #fff;
- }
+nav {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+nav ol {
+  list-style-type: none;
+}
+
+nav a {
+  color: #793284
+  text-decoration: none;
+}
+
+nav a hover {
+  color: #b42885
+  text-decoration: underline;
+}
